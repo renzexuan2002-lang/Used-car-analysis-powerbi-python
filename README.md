@@ -21,7 +21,7 @@ The raw dataset was sourced from Kaggle, containing advertisement records scrape
 
 ## 1. 🏆 Top 10 Brands by Number of Listings
 
-![Top 10 Brands by Number of Listings](Top%2010%20Brands%20By%20number%20of%20Listings%20.png)
+![Top 10 Brands by Number of Listings](images/Top%2010%20Brands%20By%20number%20of%20Listings%20.png)
 
 **Key Findings:**
 
@@ -37,7 +37,7 @@ The raw dataset was sourced from Kaggle, containing advertisement records scrape
 
 ## 2. 💰 Top 10 Brands by Average Listing Price
 
-![Top 10 Average Listing Price by Brand](Top%2010%20Average%20Listing%20Price%20by%20Brand%20.png)
+![Top 10 Average Listing Price by Brand](images/Top%2010%20Average%20Listing%20Price%20by%20Brand%20.png)
 
 **Key Findings:**
 
@@ -53,7 +53,7 @@ The raw dataset was sourced from Kaggle, containing advertisement records scrape
 
 ## 3. 📦 Price Distribution of Cars
 
-![Price Distribution of Cars](Price%20Distrbution%20of%20Cars%20.png)
+![Price Distribution of Cars](images/Price%20Distrbution%20of%20Cars%20.png)
 
 **Key Findings:**
 
@@ -76,7 +76,7 @@ The raw dataset was sourced from Kaggle, containing advertisement records scrape
 
 ## 4. 📉 Car Age vs. Average Price
 
-![Car Age VS Price](Car_age%20VS%20Price%20.png)
+![Car Age VS Price](images/Car_age%20VS%20Price%20.png)
 
 **Key Findings:**
 
@@ -91,7 +91,7 @@ The raw dataset was sourced from Kaggle, containing advertisement records scrape
 
 ## 5. 🛣️ Mileage vs. Average Price
 
-![Mileage VS Price](Mileage%20VS%20Price%20.png)
+![Mileage VS Price](images/Mileage%20VS%20Price%20.png)
 
 **Key Findings:**
 
@@ -107,7 +107,7 @@ The raw dataset was sourced from Kaggle, containing advertisement records scrape
 
 ## 6. ✅ Top 10 Brands by Sell Rate
 
-![Top 10 Sell Rate by Brand](Top%2010%20Sell%20Rate%20by%20Brand%20.png)
+![Top 10 Sell Rate by Brand](images/Top%2010%20Sell%20Rate%20by%20Brand%20.png)
 
 **Key Findings:**
 
