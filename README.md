@@ -21,7 +21,7 @@ The raw dataset was sourced from Kaggle, containing advertisement records scrape
 
 ## 1. 🏆 Top 10 Brands by Number of Listings
 
-![Top 10 Brands by Number of Listings](Top_10_Brands_By_number_of_Listings_.png)
+![Top 10 Brands by Number of Listings](Top%2010%20Brands%20By%20number%20of%20Listings%20.png)
 
 **Key Findings:**
 
@@ -37,7 +37,7 @@ The raw dataset was sourced from Kaggle, containing advertisement records scrape
 
 ## 2. 💰 Top 10 Brands by Average Listing Price
 
-![Top 10 Average Listing Price by Brand](Top_10_Average_Listing_Price_by_Brand_.png)
+![Top 10 Average Listing Price by Brand](Top%2010%20Average%20Listing%20Price%20by%20Brand%20.png)
 
 **Key Findings:**
 
@@ -53,7 +53,7 @@ The raw dataset was sourced from Kaggle, containing advertisement records scrape
 
 ## 3. 📦 Price Distribution of Cars
 
-![Price Distribution of Cars](Price_Distrbution_of_Cars_.png)
+![Price Distribution of Cars](Price%20Distrbution%20of%20Cars%20.png)
 
 **Key Findings:**
 
@@ -68,7 +68,7 @@ The raw dataset was sourced from Kaggle, containing advertisement records scrape
 
 - The sub-3M range accounts for roughly **73% of all listings** — the market is overwhelmingly mid-to-low price
 - The **3M–5M range is a notable gap**, with the fewest listings of any segment — even fewer than the >10M luxury tier
-- Supply jumps back up in the 5M–10M range, suggesting a price skip driven by brand segmentation (budget brands vs. entry luxury)
+- Supply jumps back up in the 5M–10M range, suggesting a price skip driven by brand segmentation
 
 > 💡 **Takeaway:** The 3M–5M range is an anomalous low-supply pocket. This could indicate a natural brand gap between mainstream and premium, or a buyer preference cliff worth investigating further.
 
@@ -76,7 +76,7 @@ The raw dataset was sourced from Kaggle, containing advertisement records scrape
 
 ## 4. 📉 Car Age vs. Average Price
 
-![Car Age VS Price](Car_age_VS_Price_.png)
+![Car Age VS Price](Car_age%20VS%20Price%20.png)
 
 **Key Findings:**
 
@@ -85,13 +85,13 @@ The raw dataset was sourced from Kaggle, containing advertisement records scrape
 - **30+ years:** A clear price recovery begins, with several data points reaching 5M–12M HUF — the classic/vintage car premium effect
 - The 50–65 year range contains multiple high-value outliers, likely rare collectibles or restored vehicles
 
-> 💡 **Takeaway:** Second-hand car prices follow a **U-shaped curve** rather than a simple linear decline. The first 10 years bring the heaviest depreciation; cars older than 30 years begin appreciating as collectibles. The 30–40 year window is the value floor.
+> 💡 **Takeaway:** Second-hand car prices follow a **U-shaped curve** rather than a simple linear decline. The first 10 years bring the heaviest depreciation; cars older than 30 years begin appreciating as collectibles.
 
 ---
 
 ## 5. 🛣️ Mileage vs. Average Price
 
-![Mileage VS Price](Mileage_VS_Price_.png)
+![Mileage VS Price](Mileage%20VS%20Price%20.png)
 
 **Key Findings:**
 
@@ -101,23 +101,22 @@ The raw dataset was sourced from Kaggle, containing advertisement records scrape
 - **Above 200K km:** Prices compress further to the 1M–2M range with minimal variance
 - High-price outliers persist at all mileage levels, representing premium brands that retain value regardless
 
-> 💡 **Takeaway:** 100,000 km is the key psychological threshold. Buyers heavily discount vehicles past this mark. For low-mileage vehicles, mileage alone is insufficient — brand and age must be factored in together.
+> 💡 **Takeaway:** 100,000 km is the key psychological threshold. Buyers heavily discount vehicles past this mark.
 
 ---
 
 ## 6. ✅ Top 10 Brands by Sell Rate
 
-![Top 10 Sell Rate by Brand](Top_10_Sell_Rate_by_Brand_.png)
+![Top 10 Sell Rate by Brand](Top%2010%20Sell%20Rate%20by%20Brand%20.png)
 
 **Key Findings:**
 
 - **ZASTAVA (~80%)** has by far the highest sell rate — listings rarely sit unsold
 - **ISUZU (~57%) and MARUTI (~55%)** are the only other brands breaking the 55% mark
-- **WARTBURG, PONTIAC, TRABANT, YUGO** are tightly clustered between 48%–52%
-- A striking pattern: nearly all top-10 sell-rate brands are **niche, discontinued, or Eastern European** marques (ZASTAVA, TRABANT, YUGO, WARTBURG)
-- Major mainstream brands (VW, BMW, Ford) do not appear in this list despite dominating listing volume
+- Nearly all top-10 sell-rate brands are **niche, discontinued, or Eastern European** marques (ZASTAVA, TRABANT, YUGO, WARTBURG)
+- Major mainstream brands (VW, BMW, Ford) do not appear despite dominating listing volume
 
-> 💡 **Takeaway:** High sell rates among niche/discontinued brands likely reflect low listing volumes (small sample skew), collector demand, and sellers pricing realistically. Meanwhile, high-volume mainstream brands face a supply-demand imbalance — more cars listed than buyers can absorb.
+> 💡 **Takeaway:** High sell rates among niche/discontinued brands likely reflect low listing volumes, collector demand, and realistic pricing. Mainstream brands face a supply-demand imbalance.
 
 ---
 
