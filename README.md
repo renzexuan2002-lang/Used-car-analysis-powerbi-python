@@ -109,7 +109,7 @@ The raw dataset was sourced from Kaggle, containing advertisement records from H
 - Most top sell-rate brands belong to niche or discontinued segments, rather than mainstream manufacturers.
 - High-volume mainstream brands are underrepresented in the top sell-rate rankings.
 
-> 💡 **Takeaway:** The extremely high sell rate for ZASTAVA (3 out of 4 listings) is heavily influenced by a very small sample size. With such a low denominator, the metric is highly volatile and not representative of stable market behavior.
+> 💡 **Takeaway:** The extremely high sell rate like ZASTAVA (3 out of 4 ) is heavily influenced by a very small sample size. With such a low denominator, the metric is highly volatile and not representative of stable market behavior.
 
 ## 🔍 Summary
 
